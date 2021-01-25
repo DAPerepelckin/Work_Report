@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794246207353",
+    "firebase_url": "https://workreport-1594806844229.firebaseio.com",
+    "project_id": "workreport-1594806844229",
+    "storage_bucket": "workreport-1594806844229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794246207353:android:6e1575f63ea85c004981a8",
+        "android_client_info": {
+          "package_name": "com.dapstd.workreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794246207353-0mffjqt6b4qbl9qq9k4jqi6t1k21gu9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcgAibE-4sMsF2Dqq_yMFPgh-I47eNlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794246207353-0mffjqt6b4qbl9qq9k4jqi6t1k21gu9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
